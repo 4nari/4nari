@@ -1,14 +1,14 @@
-### olá! :) eu sou a Julia 👋
+### olá! :) eu sou a julia 👋
 
 
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Software Enthusiast
-Hello World! Sou uma desenvolvedora Front-End Júnior com entendimento em UI e UX, ávida para aprender e agregar com os meus conhecimentos a cada dia mais!
+## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> software enthusiast
+Hello World! sou uma desenvolvedora Front-End Jr com entendimento em UI e UX! xD
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 
 
-## **Linguagens e Ferramentas:**  
+## **linguagens e ferramentas:**  
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
@@ -21,7 +21,7 @@ Hello World! Sou uma desenvolvedora Front-End Júnior com entendimento em UI e U
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 
 
-## **GitHub Estatísticas**
+## **GitHub estatísticas**
 
 [![card](https://github-readme-stats.vercel.app/api?username=4nari&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -34,6 +34,6 @@ Hello World! Sou uma desenvolvedora Front-End Júnior com entendimento em UI e U
 [linkedin]: https://www.linkedin.com/in/julia-fornari/
 <br>
 
-#### Rede Sociais!
+## redes sociais!
 
-👔 [Linkedin]
+👔 [LinkedIn]
